@@ -3,20 +3,20 @@
 
 ### Hi there 👋
 
-📈  I am a data scientist working in digital marketing analytics in Istanbul, Turkey.
+📈  I'm a data scientist working in digital marketing analytics in Istanbul, Turkey.
  
-🔭  I’m currently working on writing complex sql queries on Google BigQuery. I've just started a #66days of data challenge to keep on the track :)
+🔭 I'm currently working on writing complex SQL queries on Google BigQuery. I've just started a #66days of data challenge to keep on track :)
 
-🌱  I’m currently learning on the fundementals of statistics and machine learning applications through reading the famous book "An Introduction to
+🌱 I'm currently learning the fundamentals of statistics and machine learning applications through reading the famous book "An Introduction to
  Statistical Learning" from the instructors of Stanford University. 
 
-👯  I’m looking to collaborate on machine learning solutions in digital marketing analytics and retail industry.
+👯 I'm looking to collaborate on machine learning solutions in digital marketing analytics and the retail industry.
 
-🤔  I’m looking for help with advanced data analysis in python.
+🤔 I'm looking for help with advanced data analysis in python.
 
-💬  Ask me about most demanded ml applications in customer and marketing analytics.
+💬  Ask me about the most demanded ml applications in customer and marketing analytics.
 
 📫  How to reach me:https://www.linkedin.com/in/fgurkanli/
 
-😄  Pronouns: curious about the data, eager to learn, passionate for cooperation.
+😄  Pronouns: curious about the data, eager to learn, passionate about cooperation.
 
