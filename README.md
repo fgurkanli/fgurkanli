@@ -2,7 +2,7 @@
 
 🔭  I’m currently working on writing complex sql queries on Google BigQuery. I've just started a #66days of data challenge to keep on the track :)
 
-🌱  I’m currently learning the on the fundementals of statistics and machine learning applications through reading the famous book "An Introduction to
+🌱  I’m currently learning on the fundementals of statistics and machine learning applications through reading the famous book "An Introduction to
  Statistical Learning" from the instructors of Stanford University. 
 
 👯  I’m looking to collaborate on machine learning solutions in digital marketing analytics and retail industry.
