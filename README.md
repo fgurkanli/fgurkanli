@@ -5,7 +5,7 @@
 
 📈  I'm a data scientist working in digital marketing analytics in Istanbul, Turkey.
  
-🔭 I'm currently working on writing complex SQL queries on Google BigQuery. I've just started a #66days of data challenge to keep on track :)
+🔭 I'm currently learning SQL to achieve writing complex SQL queries on Google BigQuery. I've just started a #66days of data challenge to keep on track :)
 
 🌱 I'm currently learning the fundamentals of statistics and machine learning applications through reading the famous book "An Introduction to
  Statistical Learning" from the instructors of Stanford University. 
