@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-📈  I'm a business intelligence specialist working at Delivery Hero - Yemeksepeti. I have a data science background and also participating in SDG AI LAB as a volunteer data scientist.
+📈  I'm a Data Scientist | Data Engineer working at Delivery Hero - Yemeksepeti. I have a data science background and also participating in SDG AI LAB as a volunteer data scientist.
  
 🔭 I've just started a #66days of data challenge to keep on track :) I'm currently solving SQL challenges on Hackerrank to achieve writing complex SQL queries on Google BigQuery. On top of that, enrolled in DataCamp - Data Engineer career track recently.
 
